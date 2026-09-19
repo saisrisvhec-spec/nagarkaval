@@ -1,0 +1,6 @@
+{
+  "name": "NAGARKAVAL: Integrated Traffic Management & Green Corridor Control System",
+  "description": "Adaptive city traffic intelligence, jurisdiction telemetry, signal optimization, and emergency green wave corridor control platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
